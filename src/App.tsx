@@ -1,6 +1,6 @@
 import '@mantine/core/styles.css';
 
-import { AppShell, Burger, Group, MantineProvider, Text, Title } from '@mantine/core';
+import { AppShell, MantineProvider, Text, Title } from '@mantine/core';
 import { Router } from './Router';
 import { theme } from './theme';
 import { useDisclosure } from '@mantine/hooks';
