@@ -2,9 +2,9 @@ import { useEffect } from "react"
 
 export function Facebook() {
 
-    useEffect(() => {
-        if (window.facebook) window.facebook.Embeds.process()
-    })
+    // useEffect(() => {
+    //     if (window.facebook) window.facebook.Embeds.process()
+    // })
 
     return (
         <>

@@ -2,9 +2,9 @@ import { useEffect } from "react";
 
 export function Instagram() {
 
-    useEffect(() => {
-        if (window.instgrm) window.instgrm.Embeds.process()
-    })
+    // useEffect(() => {
+    //     if (window.instgrm) window.instgrm.Embeds.process()
+    // })
 
     return (
         <>
